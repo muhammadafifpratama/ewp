@@ -1,0 +1,10 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "postgres",
+        "password": "rahasia",
+        "database": "ewp"
+    },
+    "secret": "1234567890ABCDEFGHIJKLMNOPQRSTVWXYZabcdefghijklmnopqrstvwxyz"
+}
